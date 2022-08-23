@@ -4,11 +4,14 @@
 The task is to create a command-line application that dynamically generates a professional `README.md` file from a user's input using the [Inquirer Package](https://www.npmjs.com/package/inquirer). The following [README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) is a good resource that will guide you through creating a high-quality, professional README. The application will be invoked by using the following command `node index.js`. Note that this weekly challenge will not be deployed; however, a link to a walkthrough video that demonstrates its functionality will be needed. `Screencastify` will be used to make video of a demonstration of functionalities.
 
 ## User Story
+```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
+```
 
 ## Acceptance Criteria
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -24,6 +27,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+```
 
 ## Installation & Usage
 In order to install things that I needed for this week's challenge, I simply typed `npm install` in the terminal to get the dependencies in the `package.json`. After typing `npm install` and finishing installing the dependencies, `package.json` will appear in the project folder. Note that I had to run the program by typing `node index.js` in the terminal to generate the `README.md` file.
