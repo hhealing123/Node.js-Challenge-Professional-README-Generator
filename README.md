@@ -52,6 +52,7 @@ The main purpose of the project is to generate MarkDown files. The application a
 * [Contact](#contact)
 
 ## Video Demonstration 
+[Project Demonstration Link](https://user-images.githubusercontent.com/106945679/186050811-527eb2ec-807a-4426-b6e8-1386650da122.mp4)
 
 ## Final Thoughts
 Nothing was particularly hard for this week's challenge because everything was pretty straightforward. However, I was having a bit of trouble when I tried pushing all necessary files to my GitHub, because for some reason, not all files were correctly uploaded; perhaps it was because of the `gitignore` files. Since the challenge was mainly running `node index.js` in my terminal, I feel like I am now more comfortable using my terminal than before. Furthermore, I feel more confident using node; for instance, I now know better how to install and include packages that I need than before I started this week's challenge and I am more confident in creating more professional and organized README documentation.
