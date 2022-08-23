@@ -1,7 +1,7 @@
 # Node.js Challenge: Professional README Generator
 
 ## Description
-The task is to create a commande-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer Package](https://www.npmjs.com/package/inquirer). The following [README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) is a good resource that will guide through creating a high-quality, professional README. The application will be invoked by using the following commande 'node index.js'. Note that this weekly challenge will not be deployed; however, a link to walkthrough video that demonstrates its functionality will be needed. 'Screencastify' will be used to make video of demonstration of functionalities.
+The task is to create a command-line application that dynamically generates a professional `README.md` file from a user's input using the [Inquirer Package](https://www.npmjs.com/package/inquirer). The following [README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) is a good resource that will guide you through creating a high-quality, professional README. The application will be invoked by using the following command `node index.js`. Note that this weekly challenge will not be deployed; however, a link to a walkthrough video that demonstrates its functionality will be needed. `Screencastify` will be used to make video of a demonstration of functionalities.
 
 ## User Story
 AS A developer
@@ -26,18 +26,18 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Installation & Usage
-In order to install things that I needed for this week's challenge, I simply typed 'npm i' in the terminal to get the dependencies in the 'package.json'. After typing 'npm i' and finish installing the dependencies, 'package.json' will appear in the project folder. Note that I had to run the program by typing 'node index.js' in the terminal to generate the 'README.md' file.
+In order to install things that I needed for this week's challenge, I simply typed `npm install` in the terminal to get the dependencies in the `package.json`. After typing `npm install` and finishing installing the dependencies, `package.json` will appear in the project folder. Note that I had to run the program by typing `node index.js` in the terminal to generate the `README.md` file.
 
-The main purpose of the project is to generate MarkDown files. The application allows to create the syntax which are filled by pre-styled prompts using the 'inquirer' package for 'Node.js' that helps create professional, organized, and structured 'README' documentation.
+The main purpose of the project is to generate MarkDown files. The application allows to create the syntax which is filled by pre-styled prompts using the `inquirer` package of `Node.js` that helps create professional, organized, and structured `README` documentation.
 
 ## Steps Taken
 * Clone the starter code from [Starter Code Link](https://github.com/coding-boot-camp/potential-enigma.git).
-* Create a '.gitignore' file and include node.modules/ and .DS_Store/ so that node_modules directory is not tracked or uploaded to GitHub. Note that '.gitignore' file was created before installing any npm dependencies.
-* Make an array of questions for user input on 'index.js' and create functions that return license badge, license link, license section of README, and generate markdown for README.
+* Create a `.gitignore` file and include node.modules/ and .DS_Store/ so that node_modules directory is not tracked or uploaded to GitHub. Note that `.gitignore` file was created before installing any npm dependencies.
+* Make an array of questions for user input on `index.js` and create functions that return license badge, license link, license section of README, and generate markdown for README.
     * Be sure to use correct names!
-* Use 'Screencastify' to create a video demonstration of the typical user flow through my application. This will include views of the prompts and the responses after their selection.
+* Use `Screencastify` to create a video demonstration of the typical user flow through my application. This will include views of the prompts and the responses after their selection.
     * Include any other screenshots that is deemed necessary to help someone who has never been introduced to my application.
-* Finally push all necessary files to Github Repository!
+* Finally, push all necessary files to Github Repository!
 
 ## Table of Contents
 * [Description](#description)
@@ -54,7 +54,7 @@ The main purpose of the project is to generate MarkDown files. The application a
 ## Video Demonstration 
 
 ## Final Thoughts
-Nothing was particularly hard for this week's challenge because everything was pretty much straightforward. However, I was having a bit of trouble when I tried pushing all necessary files to my GitHub because for some reason not all files were correctly uploaded; perhaps it was because of the 'gitignore' files. Since the challenge was mainly running 'node index.js' in my terminal I feel like I am now more comfortable using my terminal than before. Furthermore, I feel more confident using node; for instance, I now know better how to install and include packages that I need than before I started this week's challenge and I am more confident in creating more professional and organized README documentation.
+Nothing was particularly hard for this week's challenge because everything was pretty straightforward. However, I was having a bit of trouble when I tried pushing all necessary files to my GitHub, because for some reason, not all files were correctly uploaded; perhaps it was because of the `gitignore` files. Since the challenge was mainly running `node index.js` in my terminal, I feel like I am now more comfortable using my terminal than before. Furthermore, I feel more confident using node; for instance, I now know better how to install and include packages that I need than before I started this week's challenge and I am more confident in creating more professional and organized README documentation.
 
 ## Utilized Resources
 * [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
@@ -63,4 +63,4 @@ Nothing was particularly hard for this week's challenge because everything was p
 * [List of License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 ## Contact
-If you have any questions my GitHub user name is 'hhealing123' and you can reach out to me at hhealing123@gmail.com with any questions that you may have!
+If you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com` with any questions that you may have!
