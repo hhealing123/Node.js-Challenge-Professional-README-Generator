@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "## Description The task is to create a commande-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer Package](https://www.npmjs.com/package/inquirer). The following [README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) is a good resource that will guide through creating a high-quality, professional README. The application will be invoked by using the following commande 'node index.js'. Note that this weekly challenge will not be deployed; however, a link to walkthrough video that demonstrates its functionality will be needed. 'Screencastify' will be used to make video of demonstration of functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhealing123/Node.js-Challenge-Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hhealing123/Node.js-Challenge-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/hhealing123/Node.js-Challenge-Professional-README-Generator#readme"
+}
